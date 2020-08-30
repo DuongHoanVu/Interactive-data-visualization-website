@@ -34,4 +34,4 @@ For website maintenance, run the following commands
 - git add .
 - git commit -m "first"
 - git push heroku master
-- # git add . && git commit -m "first" && git push heroku master
+- // git add . && git commit -m "first" && git push heroku master
