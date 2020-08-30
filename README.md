@@ -11,6 +11,7 @@ Open terminal, and run
   - pip install pandas, flask, gunicorn  
 Or we can run
   - pip install -r requirements.txt
+
 Save dependancies into requirements.txt
   - pip freeze > requirements.txt
 
